@@ -1,3 +1,2 @@
-## DevOps-Project_2
-
-Project 2 - Implementing the LEMP Web Stack on AWS Infrastructure
+# project3-IMPLEMENTING_MERN_WEB_STACK_ON_AWS
+#### Implementing MERN Stack on AWS Infrastructure
